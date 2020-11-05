@@ -29,7 +29,7 @@
   <hr>
   <h3>my games</h3>
   <ol>
-    <li><a href="https://www.callofduty.com/uk/en/blackopscoldwar/buy?cid=286005297call/" </a> call of duty</li>
+    <li><a href="https://www.callofduty.com/uk/en/blackopscoldwar/buy?cid=286005297call/">call of duty </a></li>
     <li><a href="https://www.rocketleague.com/">rocket league</a></li>
     <li>among us</li>
     <hr>
