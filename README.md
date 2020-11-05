@@ -1,16 +1,77 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
 
-<!--
-**yax001/yax001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<head>
+  <meta charset="utf-8">
+  <title>👾 yasins personal site</title>
+</head>
 
-Here are some ideas to get you started:
+<body>
+  <table cellspacing="20s">
+    <td><img src="file:///C:/Users/Inventors/Downloads/circle-cropped.png" alt="yasin profile pic"></td>
+    <td>
+      <h1>yasin rashid</h1>
+      <p><em>the <strong>best gamer</strong> in the whole world</em></p>
+      <p>I like to play games like cod and rocket leauge.i am the best gamer as i have said
+        before.</p>
+    </td>
+  </table>
+  <hr size="3" noshadow />
+  <h2>education</h2>
+  <p>the first school i went to was new city, it was next to brampton.the i moved to accesskey
+    elmhurst it was a very good school and i was the goalkepper for the team.now i am at
+    stratford school academy which i a ok school.the book i am reading in little badman
+    by hamza ashard a very funny youtuber.</p>
+  <ul>
+    <li>the things you can contact me on???!!!</li>
+    <li>the big wafflers</li>
+  </ul>
+  <hr>
+  <h3>my games</h3>
+  <ol>
+    <li><a href="https://www.callofduty.com/uk/en/blackopscoldwar/buy?cid=286005297call/" </a> call of duty</li>
+    <li><a href="https://www.rocketleague.com/">rocket league</a></li>
+    <li>among us</li>
+    <hr>
+    <h3>how i started playing</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>dates</th>
+          <th>games</th>
+        </tr>
+      </thead>
+      <tr>
+        <td>2013-2014</td>
+        <td>street fighter</td>
+      </tr>
+      <tr>
+        <td>2015-2016</td>
+        <td>fifa</td>
+      </tr>
+    </table>
+  </ol>
+  <hr>
+  <h3>tekkers</h3>
+  <table cellspacing="10">
+    <tr>
+      <td<table>
+    <tr>
+      <td>epic gamer coolness:</td>
+      <td>⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td>skill level:</td>
+      <td>⭐⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td>iq level:</td>
+      <td>⭐⭐⭐⭐⭐⭐⭐</td>
+      <td>
+        <table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+</body>s
