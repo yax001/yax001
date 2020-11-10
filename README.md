@@ -1,14 +1,17 @@
-
+<!DOCTYPE html>
 <html lang="en" dir="ltr">
 
 <head>
   <meta charset="utf-8">
   <title>👾 yasins personal site</title>
+<link rel="stylesheet" href="/css/master.css">
+
+
 </head>
 
 <body>
   <table cellspacing="20s">
-    <td><img src="file:///C:/Users/Inventors/Downloads/circle-cropped.png" alt="yasin profile pic"></td>
+    <td><img src="yr.png" alt="yasin profile pic"></td>
     <td>
       <h1>yasin rashid</h1>
       <p><em>the <strong>best gamer</strong> in the whole world</em></p>
@@ -20,7 +23,7 @@
   <h2>education</h2>
   <p>the first school i went to was new city, it was next to brampton.the i moved to accesskey
     elmhurst it was a very good school and i was the goalkepper for the team.now i am at
-    stratford school academy which i a ok school.the book i am reading in little badman
+    stratford school academy which is a ok school.the book i am reading in little badman
     by hamza ashard a very funny youtuber.</p>
   <ul>
     <li>the things you can contact me on???!!!</li>
@@ -29,7 +32,7 @@
   <hr>
   <h3>my games</h3>
   <ol>
-    <li><a href="https://www.callofduty.com/uk/en/blackopscoldwar/buy?cid=286005297call/">call of duty </a></li>
+    <li><a href="https://www.callofduty.com/uk/en/blackopscoldwar/buy?cid=286005297call/" </a> call of duty</li>
     <li><a href="https://www.rocketleague.com/">rocket league</a></li>
     <li>among us</li>
     <hr>
@@ -57,11 +60,11 @@
     <tr>
       <td<table>
     <tr>
-      <td>epic gamer coolness:</td>
+      <td>drawing level:</td>
       <td>⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐</td>
     </tr>
     <tr>
-      <td>skill level:</td>
+      <td>talking skills:</td>
       <td>⭐⭐⭐⭐⭐⭐</td>
     </tr>
     <tr>
@@ -69,13 +72,7 @@
       <td>⭐⭐⭐⭐⭐⭐⭐</td>
       <td>
         <table>
-          
-
-
-
-
-</body>
-
-
+          <hr cellspacing"100">
+          <a href="contact me.html">Contact Me</a>
 
 
